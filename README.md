@@ -8,6 +8,6 @@
 
 ### Link for dataset:  https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/GTSRB_Final_Training_Images.zip
 
-# Model Architecture:
+## Model Architecture:
 AlexNet architecture has been used here. The architecture consists of eight layers: five convolutional layers and three fully-connected layers. But this isn’t what makes AlexNet special.
 
