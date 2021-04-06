@@ -11,3 +11,18 @@
 ## Model Architecture:
 AlexNet architecture has been used here. The architecture consists of eight layers: five convolutional layers and three fully-connected layers. But this isn’t what makes AlexNet special.
 
+  * It has 8 layers with learnable parameters.
+ 
+  * The input to the Model is RGB images.
+ 
+  * It has 5 convolution layers with a combination of max-pooling layers.
+ 
+  * Then it has 3 fully connected layers.
+ 
+  * The activation function used in all layers is Relu.
+ 
+  * It used two Dropout layers.
+ 
+  * The activation function used in the output layer is Softmax.
+ 
+  * The total number of parameters in this architecture is 24,677,335.
