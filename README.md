@@ -26,3 +26,7 @@ AlexNet architecture has been used here. The architecture consists of eight laye
   * The activation function used in the output layer is Softmax.
  
   * The total number of parameters in this architecture is 24,677,335.
+
+## Demo App:
+
+![image](https://user-images.githubusercontent.com/67574459/114774029-637cb980-9d8d-11eb-8d9e-04ae08d07dea.png)
